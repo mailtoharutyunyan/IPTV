@@ -1,0 +1,383 @@
+﻿#EXTM3U
+#EXTINF:0 tvg-id="H1.am" group-title="Armenia",H1
+http://ott-cdn.ucom.am/s1/04.m3u8
+#EXTINF:0 tvg-id="H1.am",H1 International
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="H2.am",H2
+http://ott-cdn.ucom.am/s2/04.m3u8
+#EXTINF:0 tvg-id="H3.am",H3
+http://ott-cdn.ucom.am/s12/04.m3u8
+#EXTINF:0 tvg-id="ArmeniaTV.am",Armenia TV
+http://ott-cdn.ucom.am/s4/04.m3u8
+#EXTINF:0 tvg-id="ArmeniaTV.am",USArmenia
+http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
+#EXTINF:0 tvg-id="Shant.am",Shant TV
+http://198.16.64.45:8081/shant/index.m3u8?wmsAuthSign=1549253192S36e06bc7666178dd15a8ea6fb0b58d8dS691h971h771h19
+#EXTINF:0 tvg-id="Shant.am",ARTN Shant TV
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+#EXTINF:0 tvg-id="Kentron.am",Kentron
+http://ott-cdn.ucom.am/s5/04.m3u8
+#EXTINF:0 tvg-id="YerkirMedia.am",Yerkir Media
+http://ott-cdn.ucom.am/s7/04.m3u8
+#EXTINF:0 tvg-id="AR.am",AR
+http://ott-cdn.ucom.am/s9/04.m3u8
+#EXTINF:0,5TV
+http://ott-cdn.ucom.am/s6/04.m3u8
+#EXTINF:0 tvg-id="21",Dar 21
+http://ott-cdn.ucom.am/s10/04.m3u8
+#EXTINF:0 tvg-id="ext",Azatutyun
+http://ott-cdn.ucom.am/s3/04.m3u8
+#EXTINF:0 tvg-id="ArmNews.am",ArmNews
+http://ott-cdn.ucom.am/s11/04.m3u8
+#EXTINF:0 tvg-id="Shoxakat.am",Shoxakat
+http://ott-cdn.ucom.am/s13/04.m3u8
+#EXTINF:0 tvg-id="ATV.am",ATV
+http://ott-cdn.ucom.am/s8/04.m3u8
+#EXTINF:0 tvg-id="ATV.am",Filmzone ATV
+http://ott-cdn.ucom.am/s48/04.m3u8
+#EXTINF:0 tvg-id="ATV.am",Xaxaliq ATV
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:0 tvg-id="ATV.am",Kinoman ATV
+http://ott-cdn.ucom.am/s94/04.m3u8
+#EXTINF:0 tvg-id="ATV.am",Tava TV ATV
+http://ott-cdn.ucom.am/s53/04.m3u8
+#EXTINF:0 tvg-id="ATV.am",Hay TV ATV
+http://ott-cdn.ucom.am/s73/04.m3u8
+#EXTINF:0 tvg-id="UPremium.am",Premium 1
+http://ott-cdn.ucom.am/s83/04.m3u8
+#EXTINF:0 tvg-id="ext",Haykino 2
+http://ott-cdn.ucom.am/s22/04.m3u8
+#EXTINF:0 tvg-id="ext",JanTV 3
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:0 tvg-id="ext",Komedy 4
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:0 tvg-id="ext",Tuntunik 5
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:0 tvg-id="ext",Cinema 6
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:0,TBN Armenia
+http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8
+#EXTINF:0,Amga
+https://streamer1.connectto.com/AMGA_WEB_1202/amga/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext",HorizonTV Armenia
+http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
+#EXTINF:0,Luys TV
+http://luyse.mediatriple.net/luystv/luystv1/Playlist.m3u8
+#EXTINF:0 tvg-id="ext",SONG TV Armenia
+https://songtvam.ru:4443/high/playlist.m3u8
+#EXTINF:0 tvg-id="ext",KissTV Armenia
+https://kissfm.gcdn.co/streams/329_1023/720n/index.m3u8
+#EXTINF:0 tvg-id="ort" group-title="Russia",Perviy Kanal
+http://ott-cdn.ucom.am/s14/04.m3u8
+#EXTINF:0 tvg-id="rtrpl",Россия РТР
+http://ott-cdn.ucom.am/s15/04.m3u8
+#EXTINF:0 tvg-id="kultura",Россия K
+http://ott-cdn.ucom.am/s16/04.m3u8
+#EXTINF:0 tvg-id="amedia1",A1
+http://ott-cdn.ucom.am/s45/04.m3u8
+#EXTINF:0 tvg-id="amedia2",A2
+http://ott-cdn.ucom.am/s33/04.m3u8
+#EXTINF:0 tvg-id="bridge",Bridge TV
+http://ott-cdn.ucom.am/s34/04.m3u8
+#EXTINF:0 tvg-id="rusong",Bridge TV Русский хит
+http://ott-cdn.ucom.am/s78/04.m3u8
+#EXTINF:0 tvg-id="FineLiving.ru",Fine Living
+http://ott-cdn.ucom.am/s51/04.m3u8
+#EXTINF:0 tvg-id="food-network-rus",Food Network
+http://ott-cdn.ucom.am/s18/04.m3u8
+#EXTINF:0 tvg-id="mcm-top",MCM TOP
+http://ott-cdn.ucom.am/s49/04.m3u8
+#EXTINF:0 tvg-id="ocean",Ocean TV
+http://ott-cdn.ucom.am/s84/04.m3u8
+#EXTINF:0 tvg-id="rtgtv",RTG TV
+http://ott-cdn.ucom.am/s80/04.m3u8
+#EXTINF:0 tvg-id="tv1000",TV 1000
+http://ott-cdn.ucom.am/s90/04.m3u8
+#EXTINF:0 tvg-id="tv1000-action",TV 1000 Action
+http://ott-cdn.ucom.am/s91/04.m3u8
+#EXTINF:0 tvg-id="tv1000_rus",TV 1000 Русское кино
+http://ott-cdn.ucom.am/s95/04.m3u8
+#EXTINF:0 tvg-id="tiji",Tiji
+http://ott-cdn.ucom.am/s59/04.m3u8
+#EXTINF:0,SONG TV HD (Russia)
+http://kareniptv.eu/Unavailable/temporarilyunavailable.ts
+#EXTINF:0 tvg-id="explorer-rus",Viasat Explore
+http://ott-cdn.ucom.am/s72/04.m3u8
+#EXTINF:0 tvg-id="history",Viasat History
+http://ott-cdn.ucom.am/s70/04.m3u8
+#EXTINF:0 tvg-id="viasat-nature",Viasat Nature
+http://ott-cdn.ucom.am/s67/04.m3u8
+#EXTINF:0 tvg-id="24dok",Доктор
+http://ott-cdn.ucom.am/s76/04.m3u8
+#EXTINF:0 tvg-id="zvezda",Звезда
+http://ott-cdn.ucom.am/s85/04.m3u8
+#EXTINF:0 tvg-id="disney",Канал Disney
+http://ott-cdn.ucom.am/s60/04.m3u8
+#EXTINF:0 tvg-id="mat-i-ditya",Мама
+http://ott-cdn.ucom.am/s77/04.m3u8
+#EXTINF:0 tvg-id="mir",Мир
+http://ott-cdn.ucom.am/s39/04.m3u8
+#EXTINF:0 tvg-id="muz-tv",Муз ТВ
+http://ott-cdn.ucom.am/s28/04.m3u8
+#EXTINF:0 tvg-id="mult",Мульт
+http://ott-cdn.ucom.am/s58/04.m3u8
+#EXTINF:0 tvg-id="nstv",НСТ
+http://ott-cdn.ucom.am/s87/04.m3u8
+#EXTINF:0 tvg-id="nauka",Наука
+http://ott-cdn.ucom.am/s98/04.m3u8
+#EXTINF:0 tvg-id="vesti",Россия 24
+http://ott-cdn.ucom.am/s21/04.m3u8
+#EXTINF:0 tvg-id="rus-bestseller",Русский Бестселлер
+http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:0 tvg-id="russkij-extreme",Русский Экстрим
+http://ott-cdn.ucom.am/s47/04.m3u8
+#EXTINF:0 tvg-id="ryzhij",Рыжий
+http://ott-cdn.ucom.am/s57/04.m3u8
+#EXTINF:0 tvg-id="sarafan",Сарафан
+http://ott-cdn.ucom.am/s38/04.m3u8
+#EXTINF:0 tvg-id="tnt4",ТНТ4
+http://ott-cdn.ucom.am/s100/04.m3u8
+#EXTINF:0 tvg-id="telecafe",Телекафе
+http://ott-cdn.ucom.am/s56/04.m3u8
+#EXTINF:0 tvg-id="24texno",Техно 24
+http://ott-cdn.ucom.am/s68/04.m3u8
+#EXTINF:0 tvg-id="tv1000-comedy-hd",VIP COMEDY
+http://ott-cdn.ucom.am/s97/04.m3u8
+#EXTINF:0 tvg-id="puteshestviya-hd",ПРИКЛЮЧЕНИЯ HD
+http://ott-cdn.ucom.am/s99/04.m3u8
+#EXTINF:0 tvg-id="russia-today",RT
+http://ott-cdn.ucom.am/s96/04.m3u8
+#EXTINF:0,Первый
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/204/index.m3u8
+#EXTINF:0,VIP Premiere
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/202/index.m3u8
+#EXTINF:0,VIP Comedy
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/200/index.m3u8
+#EXTINF:0,VIP Megahit
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/201/index.m3u8
+#EXTINF:0,Viasat Nature/History
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/203/index.m3u8
+#EXTINF:0,Россия 1
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/205/index.m3u8
+#EXTINF:0,Матч! Арена
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/207/index.m3u8
+#EXTINF:0,Viasat Sport
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/208/index.m3u8
+#EXTINF:0,MGM
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/209/index.m3u8
+#EXTINF:0,RTG
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/210/index.m3u8
+#EXTINF:0,НТВ
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/213/index.m3u8
+#EXTINF:0,Конный Мир
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/214/index.m3u8
+#EXTINF:0,Телеканал КХЛ
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/215/index.m3u8
+#EXTINF:0,Nat Geo Wild
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/216/index.m3u8
+#EXTINF:0,Mezzo Live
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/217/index.m3u8
+#EXTINF:0,Animal Planet
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/218/index.m3u8
+#EXTINF:0,Fox
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/219/index.m3u8
+#EXTINF:0,MTV Live
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/221/index.m3u8
+#EXTINF:0,Nickelodeon
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/223/index.m3u8
+#EXTINF:0,КИНОПРЕМЬЕРА
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/224/index.m3u8
+#EXTINF:0,HD Life
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/226/index.m3u8
+#EXTINF:0,Discovery Channel
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/227/index.m3u8
+#EXTINF:0,Eurosport 1
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/228/index.m3u8
+#EXTINF:0,Amedia Premium
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/229/index.m3u8
+#EXTINF:0,National Geographic
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/230/index.m3u8
+#EXTINF:0,History
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/231/index.m3u8
+#EXTINF:0,TLC
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/232/index.m3u8
+#EXTINF:0,Travel Channel
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/233/index.m3u8
+#EXTINF:0,Eurosport 2 North-East
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/234/index.m3u8
+#EXTINF:0,Остросюжетное
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/904/index.m3u8
+#EXTINF:0,Дом Кино Премиум
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/911/index.m3u8
+#EXTINF:0,Шокирующее
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/913/index.m3u8
+#EXTINF:0,Кинопоказ HD-2
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/912/index.m3u8
+#EXTINF:0,Наш Кинороман
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/914/index.m3u8
+#EXTINF:0,Наш Детектив
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/915/index.m3u8
+#EXTINF:0,Охотник и рыболов
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/917/index.m3u8
+#EXTINF:0,ЕДА Премиум
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/918/index.m3u8
+#EXTINF:0,Мир
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/235/index.m3u8
+#EXTINF:0,BRIDGE
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/236/index.m3u8
+#EXTINF:0,ТНТ
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/237/index.m3u8
+#EXTINF:0,1HD
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/238/index.m3u8
+#EXTINF:0,Bollywood
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/239/index.m3u8
+#EXTINF:0,Теледом
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/954/index.m3u8
+#EXTINF:0,Настоящее время
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/986/index.m3u8
+#EXTINF:0,Travel
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1043/index.m3u8
+#EXTINF:0,XSPORT
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/996/index.m3u8
+#EXTINF:0,Fashiontv EN
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1011/index.m3u8
+#EXTINF:0,Epic Drama
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1048/index.m3u8
+#EXTINF:0,Эврика
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/908/index.m3u8
+#EXTINF:0,Приключения
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/920/index.m3u8
+#EXTINF:0,Deluxe Lounge
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/968/index.m3u8
+#EXTINF:0 group-title="Sport Russia",Матч! Футбол 1
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/222/index.m3u8
+#EXTINF:0,Матч! Футбол 2
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/211/index.m3u8
+#EXTINF:0,Матч! Футбол 3
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/206/index.m3u8
+#EXTINF:0,МАТЧ ПРЕМЬЕР
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/220/index.m3u8
+#EXTINF:0,Матч! Наш спорт
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/107/index.m3u8
+#EXTINF:0,Матч! Игра
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/225/index.m3u8
+#EXTINF:0,МАТЧ ПРЕМЬЕР
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/531/index.m3u8
+#EXTINF:0,KHL
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/519/index.m3u8
+#EXTINF:0,Матч! Футбол 1
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/124/index.m3u8
+#EXTINF:0,Матч! Футбол 2
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/530/index.m3u8
+#EXTINF:0,Матч! Футбол 3
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/522/index.m3u8
+#EXTINF:0,Матч! Арена
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/528/index.m3u8
+#EXTINF:0,Матч! Игра
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/529/index.m3u8
+#EXTINF:0,Матч ТВ
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/535/index.m3u8
+#EXTINF:0,Eurosport 1
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/141/index.m3u8
+#EXTINF:0,Extreme Sports
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/144/inde<x.m3u8
+#EXTINF:0,Матч! Боец
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/150/index.m3u8
+#EXTINF:0,Viasat Sport
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/160/index.m3u8
+#EXTINF:0,Бокс ТВ
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/870/index.m3u8
+#EXTINF:0 group-title="USA",Food Network
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1107/index.m3u8
+#EXTINF:0,Ion Television
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/901/index.m3u8
+#EXTINF:0,NYCTV Life
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/902/index.m3u8
+#EXTINF:0,CBS New York
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/903/index.m3u8
+#EXTINF:0,TeleXitos
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1075/index.m3u8
+#EXTINF:0,Telemundo
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1080/index.m3u8
+#EXTINF:0,NBC
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1081/index.m3u8
+#EXTINF:0,Qubo
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1082/index.m3u8
+#EXTINF:0,Ion Life
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1083/index.m3u8
+#EXTINF:0,Cozi TV
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1084/index.m3u8
+#EXTINF:0,Decades
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1085/index.m3u8
+#EXTINF:0,MAVTV HD
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1074/index.m3u8
+#EXTINF:0,ABC HD
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1087/index.m3u8
+#EXTINF:0,Fox 5 WNYW
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1086/index.m3u8
+#EXTINF:0,My9NJ
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1088/index.m3u8
+#EXTINF:0,Live Well Network
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1089/index.m3u8
+#EXTINF:0,MOTORTREND
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1091/index.m3u8
+#EXTINF:0,BBC America
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1092/index.m3u8
+#EXTINF:0,WPIX-TV
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1090/index.m3u8
+#EXTINF:0,THIRTEEN
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1093/index.m3u8
+#EXTINF:0,WLIW21
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1094/index.m3u8
+#EXTINF:0,NJTV
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1095/index.m3u8
+#EXTINF:0,MeTV
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1096/index.m3u8
+#EXTINF:0,SBN
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1097/index.m3u8
+#EXTINF:0,WMBC Digital Television
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1098/index.m3u8
+#EXTINF:0,Univision
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1099/index.m3u8
+#EXTINF:0,UniMÁS
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1100/index.m3u8
+#EXTINF:0,USA
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1101/index.m3u8
+#EXTINF:0,TNT
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1102/index.m3u8
+#EXTINF:0,TBS
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1103/index.m3u8
+#EXTINF:0,TLC
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1105/index.m3u8
+#EXTINF:0,FXM en
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1106/index.m3u8
+#EXTINF:0,A&E
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1108/index.m3u8
+#EXTINF:0 group-title="Georgia",1TV Georgia
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
+#EXTINF:0,2TV Georgia
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Persia/Iran",PAYAM JAVAN TV
+http://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1263865740.m3u8
+#EXTINF:0,IRIB Amoozesh
+http://mysisli.com/36bay2/gin/gin-iribamoozesh/tracks-v1a1/mono.m3u8
+#EXTINF:0,IRIB 1
+http://mysisli.com/36bay2/gin/gin-irib1/tracks-v1a1/mono.m3u8
+#EXTINF:0,IRIB 2
+http://mysisli.com/36bay2/gin/gin-irib2/tracks-v1a1/mono.m3u8
+#EXTINF:0,IRIB 4
+http://mysisli.com/36bay2/gin/gin-irib4/index.m3u8
+#EXTINF:0,IRIB 5
+http://mysisli.com/36bay2/gin/gin-irib5/index.m3u8
+#EXTINF:0 group-title="Greek",ANT 1 HD
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
+#EXTINF:0, STAR
+https://faros1.cystreams.com:8081/live/tvapeiro/apeirotv1432/40.m3u8?token=TREJAkBZQw9GD1JYXQIAV1JRCQMEUVcHAFFdV1YDWg9SA1VbUFdWBVUVSkMWRRAEAF5mX1UQXFBSG0cWEFIQaF9XQ1kRB0MZRkMPDAATWFFNEUlfVRBcRlACXFJbFU4VU0sVBkFfAFk7UwMXDFIHQ1tdTFpdHkQLDGgBBg5WDFMUCUNTER1DXBdHRFtHYRAOGVpUQ0ISKDJAG0cBCkMQVkJWQ1kRBFIFRhtEAgpEDBUTShsME3AjRk4VABsXUgxEX1wPQQkTDAYRD0RNR1gRPhNWSkJDVwcJB0VHWUEHQBsUXgAbbFIOWwpSBRUMXgwSQwkbBhMeRAkNWQwXDEU9R19XQ1kRAFUMUQNEHA==
+#EXTINF:0 tvg-id="ext" group-title="Radio",Armenian Public Radio
+http://163.172.7.166:8044
+#EXTINF:0 tvg-id="ext",Lav Radio
+http://163.172.7.220:8000
+#EXTINF:0 tvg-id="ext",Lav Radio Mix
+http://163.172.7.220:8006
+#EXTINF:0 tvg-id="ext",Armenian Net Radio
+http://s1.armnetradio.com:8550
